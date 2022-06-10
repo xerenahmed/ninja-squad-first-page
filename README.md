@@ -1,4 +1,5 @@
 # Ninja Squad Mint and Wallet page first version
+
 This codes published for inspiration to other developers about how to build a mint page, modal forms, some designs etc.
 
 ## Tree
